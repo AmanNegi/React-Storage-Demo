@@ -8,7 +8,7 @@ In this demo project we learned about the three types of storage used in Web Dev
 2. Session Storage
 3. Cookies
 
-![comparision](./images/comparision.png)
+![comparision](./images/diff.png)
 
 ## References
 - https://youtu.be/GihQAC1I39Q
